@@ -1,14 +1,10 @@
-# Meus Currículos Profissionais
+# Meus Certificados Profissionais
 
-Este repositório armazena uma coleção dos currículos que fui desenvolvendo e aprimorando ao longo da minha carreira como desenvolvedor Front-End. A cada nova fase profissional e conquista, novos currículos serão adicionados, representando minha evolução e habilidades adquiridas.
+Este repositório armazena uma coleção dos certificados que fui adquirindo e aprimorando ao longo da minha carreira como desenvolvedor Front-End. A cada nova fase profissional e conquista, novos certificados serão adicionados, representando minha evolução e habilidades adquiridas.
 
 ## Sobre Mim
 
-Sou **Kauan Santana (Devsantx)**, um desenvolvedor Front-End com foco em criar interfaces de usuário dinâmicas e intuitivas, e uma forte base em **HTML, CSS, JavaScript e React**. Tenho experiência em projetos que buscam proporcionar a melhor experiência para o usuário, aplicando metodologias ágeis e práticas de design moderno.
-
-## Estrutura
-
-Cada currículo é organizado por data, para facilitar a visualização da minha trajetória e dos diferentes momentos da minha carreira.
+Sou **Kauan Santana (Devsantx)**, um desenvolvedor Front-End com foco em criar interfaces de usuário dinâmicas e intuitivas, com uma forte base em **HTML, CSS, JavaScript e React**. Tenho experiência em projetos que buscam proporcionar a melhor experiência para o usuário, aplicando metodologias ágeis e práticas de design moderno.
 
 ## Como Utilizar
 
